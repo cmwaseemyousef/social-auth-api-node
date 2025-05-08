@@ -1,1 +1,13 @@
+# Node dependencies
+node_modules/
+
+# Env files
 .env
+
+# Logs
+logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
